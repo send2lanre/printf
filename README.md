@@ -1,1 +1,4 @@
-Here's our Printf README file for this project to be collaborated: Adeola Ajiboso, Olanrewaju Idowu
+- As a team project, we are to write a programme that create a printf function in STDIO in C programming language.
+- This space will detail how the process is done.
+- Here's our Printf README file for this project
+- Collaborators: Adeola Ajiboso, Olanrewaju Idowu
